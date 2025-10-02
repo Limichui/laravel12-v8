@@ -6,6 +6,6 @@ Cursante: Limbert Olmos Mercado
 
 ## Actividad 1
 
-- reación del proyecto en Laravel 12.
+- Creación del proyecto en Laravel 12.
 - Configuración de Rutas
 - Creación de Vistas
